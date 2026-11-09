@@ -505,6 +505,13 @@ h1 {
   background: #c6d8d1;
 }
 
+.visual-app img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .app-phone {
   width: 49%;
   height: 87%;
