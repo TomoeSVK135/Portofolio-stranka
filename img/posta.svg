@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title description">
-	<title id="title">Poštová ekonomika</title>
-	<desc id="description">Krémová poštová obálka so šalviovým grafom rastu na tlmenom zelenom pozadí.</desc>
-	<rect x="8" y="8" width="496" height="496" rx="34" fill="#D0DDD7"/>
-	<text x="54" y="76" fill="#2A2E2B" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">POŠTOVÝ SEKTOR</text>
-	<text x="54" y="101" fill="#2A2E2B" font-family="Georgia, serif" font-size="18">Ekonomika v pohybe</text>
-	<path d="M75 199a18 18 0 0 1 18-18h326a18 18 0 0 1 18 18v194a18 18 0 0 1-18 18H93a18 18 0 0 1-18-18Z" fill="#F4F3EE" stroke="#2A2E2B" stroke-width="3"/>
-	<path d="m77 204 179 133 179-133" fill="none" stroke="#2A2E2B" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-	<path d="m78 391 126-104m230 104L308 287" fill="none" stroke="#2A2E2B" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-	<rect x="137" y="225" width="238" height="153" rx="14" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2.5"/>
-	<text x="157" y="251" fill="#2A2E2B" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">VÝVOJ TRŽIEB</text>
-	<path d="M164 341h184" fill="none" stroke="#2A2E2B" stroke-linecap="round" stroke-width="2" opacity=".55"/>
-	<rect x="181" y="312" width="26" height="29" rx="4" fill="#2A2E2B"/>
-	<rect x="226" y="293" width="26" height="48" rx="4" fill="#2A2E2B"/>
-	<rect x="271" y="273" width="26" height="68" rx="4" fill="#C96846"/>
-	<rect x="316" y="255" width="26" height="86" rx="4" fill="#C96846"/>
-	<path d="m191 301 48-23 45-18 45-23" fill="none" stroke="#C96846" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-	<circle cx="191" cy="301" r="4" fill="#F4F3EE" stroke="#C96846" stroke-width="2.5"/>
-	<circle cx="239" cy="278" r="4" fill="#F4F3EE" stroke="#C96846" stroke-width="2.5"/>
-	<circle cx="284" cy="260" r="4" fill="#F4F3EE" stroke="#C96846" stroke-width="2.5"/>
-	<circle cx="329" cy="237" r="4" fill="#F4F3EE" stroke="#C96846" stroke-width="2.5"/>
-	<path d="M354 181h54v54h-54z" fill="#F4F3EE" stroke="#2A2E2B" stroke-width="2.5"/>
-	<path d="M364 194h34m-34 8h34m-34 8h23m-23 8h29" fill="none" stroke="#2A2E2B" stroke-linecap="round" stroke-width="2"/>
-	<path d="M54 451h404" fill="none" stroke="#2A2E2B" stroke-linecap="round" stroke-width="1.5" opacity=".45"/>
-	<text x="54" y="475" fill="#2A2E2B" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">POŠTA · TRH · RAST</text>
-	<circle cx="447" cy="470" r="7" fill="#C96846"/>
+  <title id="title">Poštová ekonomika - Nový vizuál</title>
+  <desc id="description">Minimalistická terakotová karta s krémovým geometrickým rozložením a dynamickým rastovým grafom.</desc>
+  <rect x="0" y="0" width="512" height="512" rx="32" fill="#C96846"/>
+  <text x="48" y="72" fill="#F4F3EE" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">POŠTOVÉ SLUŽBY</text>
+  <text x="48" y="104" fill="#F4F3EE" font-family="Georgia, serif" font-size="22" font-style="italic">Smerovanie poštového trhu</text>
+  <rect x="48" y="135" width="416" height="260" rx="18" fill="#F4F3EE" stroke="#2A2E2B" stroke-width="2.5"/>
+  <path d="M88 280h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M88 220h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M88 340h336" stroke="#D0DDD7" stroke-width="2"/>
+  <rect x="98" y="270" width="48" height="70" rx="6" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
+  <rect x="166" y="235" width="48" height="105" rx="6" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
+  <rect x="234" y="195" width="48" height="145" rx="6" fill="#2A2E2B"/>
+  <rect x="302" y="165" width="48" height="175" rx="6" fill="#2A2E2B"/>
+  <g transform="translate(362 175)">
+    <rect x="0" y="0" width="60" height="42" rx="4" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
+    <path d="M0 0 30 22 60 0" fill="none" stroke="#2A2E2B" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <path d="M122 260 190 225 258 185 326 155" fill="none" stroke="#C96846" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="122" cy="260" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
+  <circle cx="190" cy="225" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
+  <circle cx="258" cy="185" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
+  <circle cx="326" cy="155" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
+  <path d="M48 435h416" fill="none" stroke="#F4F3EE" stroke-linecap="round" stroke-width="1.5" opacity=".4"/>
+  <text x="48" y="465" fill="#F4F3EE" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">ŠTATISTICKÁ ANALÝZA · 2025</text>
+  <circle cx="454" cy="461" r="6" fill="#D0DDD7"/>
 </svg>
