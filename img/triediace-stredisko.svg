@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 620" role="img" aria-labelledby="title description">
+  <title id="title">Poštové triediace stredisko</title>
+  <desc id="description">Ilustrácia triediacej haly s dopravníkovým pásom, balíkmi a skenerom zásielok.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF7F0"/>
+      <stop offset="1" stop-color="#FFE4CC"/>
+    </linearGradient>
+  </defs>
+  <rect width="740" height="620" fill="url(#sky)"/>
+  <circle cx="620" cy="105" r="82" fill="#FFB36B" opacity=".46"/>
+  <path d="M0 420 740 365v255H0Z" fill="#F0DFD1"/>
+  <path d="M0 482 740 423v197H0Z" fill="#FFF7F0"/>
+  <ellipse cx="412" cy="479" rx="300" ry="34" fill="#292929" opacity=".12"/>
+  <path d="m126 201 426-52 103 41-425 59Z" fill="#292929"/>
+  <path d="m126 201 104 48v222l-104-46Z" fill="#E7D7CA" stroke="#292929" stroke-width="3"/>
+  <path d="m230 249 425-59v238l-425 43Z" fill="#FFFFFF" stroke="#292929" stroke-width="3"/>
+  <path d="m126 201 426-52 103 41-425 59Z" fill="#292929" stroke="#292929" stroke-width="3"/>
+  <path d="m230 271 425-59v20l-425 60Z" fill="#F47B20"/>
+  <path d="m253 219 80-11v30l-80 11Zm102-14 80-11v30l-80 11Zm102-14 80-11v30l-80 11Z" fill="#FFF7F0" stroke="#292929" stroke-width="2"/>
+  <path d="m236 295 417-59" stroke="#F0DFD1" stroke-width="3"/>
+  <g fill="#292929">
+    <path d="m275 307 92-13v132l-92 10z"/>
+    <path d="m393 290 92-13v135l-92 10z"/>
+    <path d="m511 274 92-13v137l-92 10z"/>
+  </g>
+  <g fill="#FFB36B" stroke="#292929" stroke-width="3">
+    <path d="m285 316 72-10v111l-72 8z"/>
+    <path d="m403 299 72-10v114l-72 8z"/>
+    <path d="m521 283 72-10v115l-72 8z"/>
+  </g>
+  <g fill="none" stroke="#F0DFD1" stroke-width="3">
+    <path d="m290 343 62-8m-62 19 62-8m-62 19 62-8m-62 19 62-8"/>
+    <path d="m408 326 62-8m-62 19 62-8m-62 19 62-8m-62 19 62-8"/>
+    <path d="m526 310 62-8m-62 19 62-8m-62 19 62-8m-62 19 62-8"/>
+  </g>
+  <path d="m262 431 390-39v22l-390 42Z" fill="#292929"/>
+  <path d="m262 431 390-39" stroke="#FFB36B" stroke-width="5"/>
+  <g transform="translate(71 386)">
+    <path d="m0 26 24-44 133-16 29 28v91H0Z" fill="#F47B20" stroke="#292929" stroke-width="4"/>
+    <path d="m29-14 18-32 84-10v43Z" fill="#FFF7F0" stroke="#292929" stroke-width="3"/>
+    <path d="m137-55 18-2 26 30h-44Z" fill="#FFB36B" stroke="#292929" stroke-width="3"/>
+    <path d="M16 36h164v26H16z" fill="#FFF7F0" stroke="#292929" stroke-width="3"/>
+    <path d="M28 42h20m10 0h20m10 0h20m10 0h20m10 0h20" stroke="#F47B20" stroke-width="4"/>
+    <circle cx="43" cy="86" r="18" fill="#292929"/>
+    <circle cx="43" cy="86" r="8" fill="#FFF7F0"/>
+    <circle cx="151" cy="86" r="18" fill="#292929"/>
+    <circle cx="151" cy="86" r="8" fill="#FFF7F0"/>
+  </g>
+  <path d="M28 548h684" stroke="#292929" stroke-width="3" opacity=".28"/>
+  <path d="m399 581 87-7m33-3 87-7m33-3 64-5" stroke="#F47B20" stroke-width="8" stroke-linecap="round" opacity=".6"/>
+  <path d="m177 489 44 20m-54-4 44 20" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+</svg>
