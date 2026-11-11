@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title description">
   <title id="title">Poštová ekonomika - Nový vizuál</title>
   <desc id="description">Minimalistická terakotová karta s krémovým geometrickým rozložením a dynamickým rastovým grafom.</desc>
-  <rect x="0" y="0" width="512" height="512" rx="32" fill="#C96846"/>
-  <text x="48" y="72" fill="#F4F3EE" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">POŠTOVÉ SLUŽBY</text>
-  <text x="48" y="104" fill="#F4F3EE" font-family="Georgia, serif" font-size="22" font-style="italic">Smerovanie poštového trhu</text>
-  <rect x="48" y="135" width="416" height="260" rx="18" fill="#F4F3EE" stroke="#2A2E2B" stroke-width="2.5"/>
-  <path d="M88 280h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"/>
-  <path d="M88 220h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"/>
-  <path d="M88 340h336" stroke="#D0DDD7" stroke-width="2"/>
-  <rect x="98" y="270" width="48" height="70" rx="6" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
-  <rect x="166" y="235" width="48" height="105" rx="6" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
-  <rect x="234" y="195" width="48" height="145" rx="6" fill="#2A2E2B"/>
-  <rect x="302" y="165" width="48" height="175" rx="6" fill="#2A2E2B"/>
+  <rect x="0" y="0" width="512" height="512" rx="32" fill="#F47B20"/>
+  <text x="48" y="72" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">POŠTOVÉ SLUŽBY</text>
+  <text x="48" y="104" fill="#FFFFFF" font-family="Georgia, serif" font-size="22" font-style="italic">Smerovanie poštového trhu</text>
+  <rect x="48" y="135" width="416" height="260" rx="18" fill="#FFF7F0" stroke="#292929" stroke-width="2.5"/>
+  <path d="M88 280h336" stroke="#F0DFD1" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M88 220h336" stroke="#F0DFD1" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M88 340h336" stroke="#F0DFD1" stroke-width="2"/>
+  <rect x="98" y="270" width="48" height="70" rx="6" fill="#FFB36B" stroke="#292929" stroke-width="2"/>
+  <rect x="166" y="235" width="48" height="105" rx="6" fill="#FFB36B" stroke="#292929" stroke-width="2"/>
+  <rect x="234" y="195" width="48" height="145" rx="6" fill="#292929"/>
+  <rect x="302" y="165" width="48" height="175" rx="6" fill="#292929"/>
   <g transform="translate(362 175)">
-    <rect x="0" y="0" width="60" height="42" rx="4" fill="#D0DDD7" stroke="#2A2E2B" stroke-width="2"/>
-    <path d="M0 0 30 22 60 0" fill="none" stroke="#2A2E2B" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="0" y="0" width="60" height="42" rx="4" fill="#FFB36B" stroke="#292929" stroke-width="2"/>
+    <path d="M0 0 30 22 60 0" fill="none" stroke="#292929" stroke-width="2" stroke-linejoin="round"/>
   </g>
-  <path d="M122 260 190 225 258 185 326 155" fill="none" stroke="#C96846" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
-  <circle cx="122" cy="260" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
-  <circle cx="190" cy="225" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
-  <circle cx="258" cy="185" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
-  <circle cx="326" cy="155" r="5" fill="#F4F3EE" stroke="#C96846" stroke-width="3"/>
-  <path d="M48 435h416" fill="none" stroke="#F4F3EE" stroke-linecap="round" stroke-width="1.5" opacity=".4"/>
-  <text x="48" y="465" fill="#F4F3EE" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">ŠTATISTICKÁ ANALÝZA · 2025</text>
-  <circle cx="454" cy="461" r="6" fill="#D0DDD7"/>
+  <path d="M122 260 190 225 258 185 326 155" fill="none" stroke="#F47B20" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="122" cy="260" r="5" fill="#FFF7F0" stroke="#F47B20" stroke-width="3"/>
+  <circle cx="190" cy="225" r="5" fill="#FFF7F0" stroke="#F47B20" stroke-width="3"/>
+  <circle cx="258" cy="185" r="5" fill="#FFF7F0" stroke="#F47B20" stroke-width="3"/>
+  <circle cx="326" cy="155" r="5" fill="#FFF7F0" stroke="#F47B20" stroke-width="3"/>
+  <path d="M48 435h416" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.5" opacity=".4"/>
+  <text x="48" y="465" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">ŠTATISTICKÁ ANALÝZA · 2025</text>
+  <circle cx="454" cy="461" r="6" fill="#FFB36B"/>
 </svg>

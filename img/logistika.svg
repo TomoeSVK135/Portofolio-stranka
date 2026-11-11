@@ -2,39 +2,39 @@
               <title id="svgTitleEl">Zelená logistika</title>
               
               <!-- Background Card -->
-              <rect id="svgBg" x="0" y="0" width="512" height="512" rx="32" fill="#00ff95"></rect>
+              <rect id="svgBg" x="0" y="0" width="512" height="512" rx="32" fill="#FFB36B"></rect>
               
               <!-- Header Texts -->
-              <text id="svgTextCategory" x="48" y="72" fill="#000000" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">LOGISTIKA</text>
-              <text id="svgTextTitle" x="48" y="104" fill="#000000" font-family="Georgia, serif" font-size="22" font-style="italic">Environmentalistika v doprave</text>
+              <text id="svgTextCategory" x="48" y="72" fill="#292929" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">LOGISTIKA</text>
+              <text id="svgTextTitle" x="48" y="104" fill="#292929" font-family="Georgia, serif" font-size="22" font-style="italic">Environmentalistika v doprave</text>
 
               <!-- Main Inner Panel -->
-              <rect id="svgPanel" x="48" y="135" width="416" height="260" rx="18" fill="#ffffff" stroke="#000000" stroke-width="2.5"></rect>
+              <rect id="svgPanel" x="48" y="135" width="416" height="260" rx="18" fill="#FFFFFF" stroke="#292929" stroke-width="2.5"></rect>
 
               <!-- Grid / Guide Lines -->
-              <path d="M88 280h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"></path>
-              <path d="M88 220h336" stroke="#D0DDD7" stroke-width="2" stroke-dasharray="4 4"></path>
-              <path d="M88 340h336" stroke="#D0DDD7" stroke-width="2"></path>
+              <path d="M88 280h336" stroke="#F0DFD1" stroke-width="2" stroke-dasharray="4 4"></path>
+              <path d="M88 220h336" stroke="#F0DFD1" stroke-width="2" stroke-dasharray="4 4"></path>
+              <path d="M88 340h336" stroke="#F0DFD1" stroke-width="2"></path>
 
               <!-- Bars -->
-              <rect id="svgBar1" class="eco-bar eco-bar-1" x="110" y="250" width="55" height="90" rx="6" fill="#d0ddd7" stroke="#000000" stroke-width="2"></rect>
-              <rect id="svgBar2" class="eco-bar eco-bar-2" x="195" y="210" width="55" height="130" rx="6" fill="#a3b19b" stroke="#000000" stroke-width="2"></rect>
-              <rect id="svgBar3" class="eco-bar eco-bar-3" x="280" y="170" width="55" height="170" rx="6" fill="#2d4a3e"></rect>
+              <rect id="svgBar1" class="eco-bar eco-bar-1" x="110" y="250" width="55" height="90" rx="6" fill="#FFF7F0" stroke="#292929" stroke-width="2"></rect>
+              <rect id="svgBar2" class="eco-bar eco-bar-2" x="195" y="210" width="55" height="130" rx="6" fill="#F47B20" stroke="#292929" stroke-width="2"></rect>
+              <rect id="svgBar3" class="eco-bar eco-bar-3" x="280" y="170" width="55" height="170" rx="6" fill="#292929"></rect>
 
               <!-- Leaf Symbol -->
               <g class="leaf-icon">
-                <path id="svgLeaf1" d="M370 215c0-18 15-30 33-30 0 18-15 33-33 30z" fill="#a3b19b" stroke="#000000" stroke-width="2"></path>
-                <path id="svgLeaf2" d="M370 215c15 5 28 18 33 33" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+                <path id="svgLeaf1" d="M370 215c0-18 15-30 33-30 0 18-15 33-33 30z" fill="#FFB36B" stroke="#292929" stroke-width="2"></path>
+                <path id="svgLeaf2" d="M370 215c15 5 28 18 33 33" fill="none" stroke="#292929" stroke-width="2" stroke-linecap="round"></path>
               </g>
               
               <!-- Trend Line and Dots -->
-              <path id="svgTrendLine" class="eco-line" d="M137 240 L222 195 L307 155" fill="none" stroke="#16ff05" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path>
-              <circle id="svgDot1" class="eco-dot" cx="137" cy="240" r="5" fill="#ffffff" stroke="#16ff05" stroke-width="3"></circle>
-              <circle id="svgDot2" class="eco-dot" cx="222" cy="195" r="5" fill="#ffffff" stroke="#16ff05" stroke-width="3"></circle>
-              <circle id="svgDot3" class="eco-dot" cx="307" cy="155" r="5" fill="#ffffff" stroke="#16ff05" stroke-width="3"></circle>
+              <path id="svgTrendLine" class="eco-line" d="M137 240 L222 195 L307 155" fill="none" stroke="#F47B20" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path>
+              <circle id="svgDot1" class="eco-dot" cx="137" cy="240" r="5" fill="#FFFFFF" stroke="#F47B20" stroke-width="3"></circle>
+              <circle id="svgDot2" class="eco-dot" cx="222" cy="195" r="5" fill="#FFFFFF" stroke="#F47B20" stroke-width="3"></circle>
+              <circle id="svgDot3" class="eco-dot" cx="307" cy="155" r="5" fill="#FFFFFF" stroke="#F47B20" stroke-width="3"></circle>
 
               <!-- Footer Line & Accent -->
-              <path id="svgFooterLine" d="M48 435h416" fill="none" stroke="#000000" stroke-linecap="round" stroke-width="1.5" opacity=".4"></path>
-              <text id="svgTextFooter" x="48" y="465" fill="#000000" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">EMISIE · DOPRAVA · OPTIMALIZÁCIA</text>
-              <circle id="svgFooterDot" cx="454" cy="461" r="6" fill="#a3b19b"></circle>
+              <path id="svgFooterLine" d="M48 435h416" fill="none" stroke="#292929" stroke-linecap="round" stroke-width="1.5" opacity=".4"></path>
+              <text id="svgTextFooter" x="48" y="465" fill="#292929" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">EMISIE · DOPRAVA · OPTIMALIZÁCIA</text>
+              <circle id="svgFooterDot" cx="454" cy="461" r="6" fill="#F47B20"></circle>
             </svg>
