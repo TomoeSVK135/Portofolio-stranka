@@ -724,6 +724,16 @@ h1 {
   animation: slow-turn 18s linear infinite;
 }
 
+.about-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  margin-top: 20px;
+  border-radius: 4px;
+  object-fit: cover;
+  object-position: center 35%;
+}
+
 .about-copy h2 {
   margin-bottom: 26px;
   font-family: var(--serif);
@@ -1037,9 +1047,9 @@ h1 {
   }
 
   .about-label {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr auto;
     align-items: center;
-    justify-content: space-between;
   }
 
   .about-label .eyebrow {
@@ -1048,6 +1058,12 @@ h1 {
 
   .about-mark {
     font-size: 30px;
+  }
+
+  .about-photo {
+    grid-column: 1 / -1;
+    width: min(100%, 260px);
+    margin-top: 18px;
   }
 
   .about-copy h2 {
