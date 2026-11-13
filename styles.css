@@ -734,6 +734,10 @@ h1 {
   object-position: center 35%;
 }
 
+.about-copy {
+  align-self: center;
+}
+
 .about-copy h2 {
   margin-bottom: 26px;
   font-family: var(--serif);
